@@ -1,9 +1,12 @@
 # detect-extract-table
 Detect and Extract Table On Image (OpenCV)  
-run: python detecttable.py  
-input:  
+**run:**
+```
+python detecttable.py  
+```
++ **input:**  
 ![alt text](input.jpg)  
-detected:  
++ **detected:**  
 ![alt text](detect.jpg)  
-extract data:  
++ **extract data:**  
 ![alt text](recog.jpg)  
